@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="titleize",
-    version="0.0.3",
+    version="0.0.4",
     author="Tabulate",
     author_email="tabulatejarl8@gmail.com",
     description="Convert Strings to Title Case",
